@@ -3,8 +3,10 @@ class test
 public static void main(String[] args)
 {
 int sum;
+int diff;
 int a,b;
 sum=a+b;
 system.out.pritnln("sum is :");
+system.out.pritnln("diff is :");
 }
 }
