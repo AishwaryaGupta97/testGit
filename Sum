@@ -1,0 +1,10 @@
+class test
+{
+public static void main(String[] args)
+{
+int sum;
+int a,b;
+sum=a+b;
+system.out.pritnln("sum is :");
+}
+}
